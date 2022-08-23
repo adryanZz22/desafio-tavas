@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(../imagens/fee50a_b276048f476c4c62acfe9c8cd45ba375_mv2.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+    height: 100vh;
+}
+.titulologo{
+    padding: 18px 0px 0px 45px;
+    color: #ffffff;
+    font-size: 28px;
+    font: Madefor,"Helvetica Neue",Helvetica,Arial,"メイリオ","meiryo","ヒラギノ角ゴ pro w3","hiragino kaku gothic pro",sans-serif;
+    font-weight: normal;
+}
+.central{
+    text-align: center;
+    margin-top: 108px;
+    color: #ffffff;
+}
+.titulocentral{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 65px;
+}
+.paragrafocentral{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 27px;
+}
+.titulosegundario{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    background-color: #049370;
+    font-size: 24px;
+    margin: auto;
+    width: 260px;
+    padding: 16px;
+    border-radius: 60px;
+    margin-bottom: 10px; 
+}
+.pARAGRAFO2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+.fundo{
+    min-width: 300px;
+    height: 600px;
+    margin-top: 558px;
+    background-color: black;
+}
