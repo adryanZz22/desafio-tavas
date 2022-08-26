@@ -135,7 +135,7 @@ body{
 .tt{
     text-align: justify;
     font-weight: normal;
-    line-height: 31px;
+    line-height: 28px;
     padding-top: 31px;
     font-size: 16px;
     text-align: left;
@@ -154,4 +154,59 @@ body{
 a{
     text-decoration: none;
     color: #ffffff;
+}
+.a001{
+    margin: auto;
+    padding: 65px 0px 0px 0px;
+    background-color: #ffffff;
+    width: 788px;
+    
+}
+.a002{
+    padding: 60px;
+    background-color: #ffffff;
+    width: 225px;
+    margin: auto;
+    text-align: center;
+    
+}
+.divh{
+    background-color: #ffffff;
+    width: 1903px;
+    height: 478px;
+}
+.h12{
+    line-height: 55px;
+    text-align: center;
+    font-size: 32px;
+}
+.conteinerdentro{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    width: 1903px;
+    height: 488px;
+}
+.h123{
+    width: 1100px;
+    margin: auto;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 48px;
+
+}
+.botao3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    background-color: #049370;
+    font-size: 20px;
+    text-align: center;
+    width: 320px;
+    padding: 15px;
+    border-radius: 60px;
+    margin-bottom: 135px;
+    margin: auto;
+    margin-top: 46px;
+}
+.aaaaa{
+    height: 500px;
 }
